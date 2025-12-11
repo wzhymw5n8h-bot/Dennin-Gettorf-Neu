@@ -1448,7 +1448,7 @@ p {
         width: 95%;
         right: 2.5%;
         bottom: 90px;
-        height: auto;
+        height: 80vh;
         max-height: calc(100vh - 110px);
         border-radius: 16px;
     }
